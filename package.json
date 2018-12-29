@@ -1,0 +1,19 @@
+{
+  "name": "const-z-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy-agent": "^2.1.0",
+    "https-proxy-agent": "^2.2.1",
+    "moment": "^2.23.0",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.25.5",
+    "telegraf-command-parts": "^1.0.3"
+  }
+}
